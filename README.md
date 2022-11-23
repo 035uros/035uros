@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there and welcome to Uroš's GitHub!    <img src="https://media.tenor.com/A7eequnhcGwAAAAC/hand.gif" width="48">
+
+- 💬 Ask me about embedded systems!
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/035uros/), or on milosevicurose14@gmail.com
+- 🤔 I’m looking for an intership/job
+
+<img src="https://github-readme-stats.vercel.app/api?username=035uros&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <!--
 **035uros/035uros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
