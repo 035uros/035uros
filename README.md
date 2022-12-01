@@ -1,6 +1,6 @@
 ### Hi there and welcome to Uroš's GitHub!    <img src="https://media.tenor.com/A7eequnhcGwAAAAC/hand.gif" width="48">
 
-- 💬 Ask me about embedded systems!
+
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/035uros/), or on milosevicurose14@gmail.com
 - 🤔 I’m looking for an intership/job
 
@@ -11,7 +11,7 @@
 **035uros/035uros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 💬 Ask me about embedded systems!
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
